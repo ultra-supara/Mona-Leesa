@@ -1,6 +1,6 @@
 # Development Guide
 
-This document provides guidelines for developing Chromensics.
+This document provides guidelines for developing Mona-Leesa
 
 ## Development Environment Setup
 

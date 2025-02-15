@@ -1,13 +1,13 @@
-# Chromensics (for mac OS)
+# Mona-Leesa (for mac OS)
 
-
+![Image](https://github.com/user-attachments/assets/c42d013c-38fd-41b2-9304-119e253122f4)
 
 ## What is this?
 - Chrome Forensics Tool for mac OS User.
 
 ## NOTICE
-- This software decrypt your Chrome's cookie and password, credit card data, then send them to standard output.
-    - This software **does not** upload any credential to the internet.
+- This software decrypt your Chrome's **cookie and password, credit card data**, then send them to standard output.
+- This software **does not** upload any credential to the internet.
 
 ## Disclaimer
 - This tool is limited to education and security research only.
